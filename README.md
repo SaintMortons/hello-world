@@ -1,2 +1,1 @@
-# hello-world
-This is the beginning of new the new journey
+Im justice Mortons and this is my first Github Account
